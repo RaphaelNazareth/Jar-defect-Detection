@@ -1,4 +1,5 @@
 # Jar Lid Defect Detection — YOLOv8
+<img width="1312" height="812" alt="image" src="https://github.com/user-attachments/assets/7fccbff5-6bb2-4c84-b9d5-ac6a5daed884" />
 
 ## Overview
 
@@ -8,7 +9,6 @@ This project develops a computer vision–based defect detection system using **
 
 - **intact**
 - **damaged**
-<img width="944" height="707" alt="image" src="https://github.com/user-attachments/assets/534074c6-9231-4219-b02b-81a9d3167e98" />
 
 ---
 
