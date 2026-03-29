@@ -131,9 +131,6 @@ Ahmed, I., Siddiqi, M. U. R., & Ahmad, M. (2024).
 *AI-Enhanced Visual Inspection Systems for Robust Detection of Product Packaging Defects in Manufacturing Environments.*  
 IEEE UEMCON 2024.
 
-##Author
-## Author
-
 ## Author
 **Raphael Nazareth** Computer Engineer | AI / Data Science
 
